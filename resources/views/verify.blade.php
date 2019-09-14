@@ -1,0 +1,1 @@
+<h1>Check Your Mail To Vrify Your Account</h1>

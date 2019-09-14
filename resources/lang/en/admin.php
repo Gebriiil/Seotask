@@ -1,0 +1,37 @@
+<?php 
+
+return [
+	'name'=>'Name',
+	'edit'=>'Edit',
+	'add_new'=>'Add New',
+	'email'=>'Email',
+	'image'=>'Image',
+	'delete'=>'Delete',
+	'edit'=>'Edit',
+	'password'=>'Password',
+	'confirm_password'=>'Confirm Password',
+	'add_admin'=>'Add Admin',
+	'update_admin'=>'Update Admin',
+	'admins'=>'Admins',
+	'Languages'=>'Languages',
+	'Products'=>'Products',
+	'Title'=>'Title',
+	'Slogan'=>'Slogan',
+	'add_lang'=>'Add Language',
+	'update_lang'=>'Update Language',
+	'status'=>'Status',
+	'action'=>'Action',
+	'users'=>'Users',
+	'phone'=>'phone',
+	'desc'=>'Description',
+	'add_product'=>'Add Product',
+	'update_product'=>'Update Product',
+	'arabic'=>'Arabic',
+	'english'=>'English',
+	'german'=>'German',
+	'lang'=>'Language',
+	'products'=>'Products',
+	'Add Languages'=>'Add Languages',
+
+];
+ ?>
